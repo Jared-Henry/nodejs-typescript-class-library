@@ -2,9 +2,11 @@
   "name": "@jared-henry/hello-world",
   "version": "1.0.0-beta",
   "description": "A 'Hello World' TypeScript class library",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
   },
   "repository": {
     "type": "git",
