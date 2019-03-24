@@ -1,0 +1,23 @@
+{
+  "name": "@jared-henry/hello-world",
+  "version": "1.0.0-beta",
+  "description": "A 'Hello World' TypeScript class library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jared-Henry/nodejs-typescript-class-library.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Jared Henry",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Jared-Henry/nodejs-typescript-class-library/issues"
+  },
+  "homepage": "https://github.com/Jared-Henry/nodejs-typescript-class-library#readme"
+}
