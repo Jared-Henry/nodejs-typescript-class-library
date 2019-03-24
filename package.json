@@ -1,6 +1,6 @@
 {
   "name": "@jared-henry/hello-world",
-  "version": "1.0.0-beta",
+  "version": "1.0.1-beta",
   "description": "A 'Hello World' TypeScript class library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,8 @@
   },
   "keywords": [
     "hello",
-    "world"
+    "world",
+    "TypeScript"
   ],
   "author": "Jared Henry",
   "license": "SEE LICENSE IN LICENSE",
