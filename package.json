@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Jared-Henry/nodejs-typescript-class-library/issues"
   },
-  "homepage": "https://github.com/Jared-Henry/nodejs-typescript-class-library#readme"
+  "homepage": "https://github.com/Jared-Henry/nodejs-typescript-class-library#readme",
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  }
 }
